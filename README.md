@@ -1,10 +1,12 @@
 # Anion Gap
 
+## Description
+
 This application is designed to help evaluate the primary acid-base balance disorders, specifically focusing on the state of metabolic acidosis, using the Anion Gap method. The Anion Gap is a diagnostic tool that aids in identifying the cause of metabolic acidosis. It is calculated from the difference between the serum concentrations of the major cations (sodium) and anions (chloride and bicarbonate).
 
 Through this application, users can enter patient-specific pH, bicarbonate (HCO3), sodium (Na), and chloride (Cl) levels, and the application will evaluate if there is metabolic acidosis, distinguishing between high Anion Gap metabolic acidosis and normal Anion Gap (hyperchloremic) metabolic acidosis.
 
-#Usage Guidelines
+## Usage Guidelines
 
 - Enter the patient's laboratory values for pH, HCO3, Na, and Cl in the appropriate input fields. These are typically obtained from arterial blood gas and electrolyte panel tests. Please note that the reference ranges for each parameter are provided in parentheses for reference. You can input the values by typing directly into the box or using the slider.
 - After entering all the values, click the 'Calculate' button.
